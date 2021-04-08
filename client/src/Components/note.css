@@ -1,0 +1,5 @@
+.thumbtack {
+    z-index: 1;
+    margin-top: -.8rem;
+    cursor: pointer;
+}

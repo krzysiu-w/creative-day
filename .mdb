@@ -1,0 +1,10 @@
+{
+  "projectName": "node-free-express-mongoose",
+  "meta": {
+    "starter": "node-free-express-mongoose",
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "node12"
+  }
+}
